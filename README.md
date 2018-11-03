@@ -2,11 +2,11 @@
 Text recognition to speech conversion using numerous libraries
 
 Libraries used:
-PyTesseract
+PyTesseract,
 gTTS
 
 
 
 Future Scope:
-Port to PyOCR
+Port to PyOCR,
 Added support for Cameras
